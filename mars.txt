@@ -1,3 +1,4 @@
 New file
 A new line to the file
+Erase this line
 
